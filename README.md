@@ -53,8 +53,8 @@ private boolean validarEmail(String email) {
   * Crear, editar y desactivar cuentas (Admin, Empleado, Cliente)
 * **Productos**:
 
-  * Registrar alimentos con imágenes
-  * Modificar stock y precios
+  * Registrar alimentos 
+  * Eliminar alimentos
   * Categorías: Combos, Bebidas, Postres, etc.
 
 ### 🛒 Proceso Principal: Venta de Comida
@@ -90,7 +90,7 @@ document.add(titulo);
 ## 🧠 Otras Características Únicas
 
 
-* **Validación CAPTCHA** en login (implementación propia del equipo)
+* **Validación CAPTCHA** en login
 * **Cambio de interfaz** dinámico por rol de usuario
 * **Detección y personalización automática** del contenido del ticket según usuario
 
