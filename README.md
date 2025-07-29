@@ -105,7 +105,6 @@ document.add(titulo);
 | Libreria\_impuestos | Cálculo de impuestos (IVA, etc.) |
 | PDFBox / iTextPDF   | Generación de PDF de tickets     |
 | JavaMail            | Envío de correos con adjuntos    |
-| JFreeChart          | Visualización gráfica de ventas  |
 
 ---
 
@@ -141,19 +140,22 @@ CREATE DATABASE fudsap_db;
 
 ### 🔐 CAPTCHA en Login
 
-![captcha](https://via.placeholder.com/400x150?text=CAPTCHA+Login)
+<img width="446" height="704" alt="image" src="https://github.com/user-attachments/assets/91c92517-1b8f-4e5e-8ba4-cad4f69f635f" />
 
-### 👤 CRUD Usuarios
 
-![usuarios](https://via.placeholder.com/400x150?text=CRUD+Usuarios)
+### 👤 CRUD Usuarios 
+
+<img width="1141" height="619" alt="image" src="https://github.com/user-attachments/assets/8ed1ab07-869b-4a5b-87b9-e2b015331311" />
 
 ### 🍔 CRUD Productos
 
-![productos](https://via.placeholder.com/400x150?text=CRUD+Productos)
+<img width="1153" height="637" alt="image" src="https://github.com/user-attachments/assets/50fc035e-3bdc-499e-a26c-3a839a7a2384" />
+
 
 ### 🧾 Ticket en PDF
 
-![ticket](https://via.placeholder.com/400x150?text=PDF+Ticket)
+<img width="859" height="585" alt="image" src="https://github.com/user-attachments/assets/6ed42a22-5030-4859-af06-6e726470915d" />
+
 
 ---
 
