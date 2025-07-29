@@ -20,12 +20,12 @@ Sistema de gestión integral para restaurantes de comida rápida que permite:
 **🖥️ Tipo de Sistema:** Desktop App en Java, con Swing
 
 **📦 Librería externa implementada:**
-- Validación de formularios con `Validator` del Equipo 2  
-  🔗 [Repositorio del componente Validator](https://github.com/equipo2/validator)
+- Validación de formularios con `CAPTCHA` del Equipo 2  
+  🔗 [Repositorio del componente CAPTCHA](https://github.com/FanyBr07/ComponenteVisual)
 
 **🧩 Componente visual integrado:**
-- Selector de fechas con `CalendarPicker` del Equipo 11  
-  🔗 [Repositorio del componente CalendarPicker](https://github.com/equipo11/calendarpicker)
+- Selector de fechas con `CalendarPicker` del Equipo 14 
+  🔗 [Repositorio del componente Libreria-impuestos](   )
 
 ---
 
