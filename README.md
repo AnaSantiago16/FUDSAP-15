@@ -1,5 +1,5 @@
 
-# 🍔 Sistema de Punto de Venta - Comida Rápida FUDSAP
+## 🍔 Sistema de Punto de Venta - Comida Rápida FUDSAP
 
 **Equipo #15**
 
@@ -33,7 +33,7 @@ Sistema de gestión integral para restaurantes de comida rápida que permite:
 ## 🔧 Funcionalidades Principales
 
 ### 🔒 Seguridad Integrada
-- Validación de email con Regex
+- Validación de email 
 - Contraseña mínima de 6 caracteres
 - Acceso administrativo especial
 - Conexión segura con PostgreSQL
@@ -89,7 +89,7 @@ document.add(titulo);
 
 ## 🧠 Otras Características Únicas
 
-* **Gráficos estadísticos** de ventas con JFreeChart
+
 * **Validación CAPTCHA** en login (implementación propia del equipo)
 * **Cambio de interfaz** dinámico por rol de usuario
 * **Detección y personalización automática** del contenido del ticket según usuario
@@ -141,21 +141,21 @@ CREATE DATABASE fudsap_db;
 
 ### 🔐 CAPTCHA en Login
 
-<img width="446" height="704" alt="image" src="https://github.com/user-attachments/assets/91c92517-1b8f-4e5e-8ba4-cad4f69f635f" />
+<img width="246" height="504" alt="image" src="https://github.com/user-attachments/assets/91c92517-1b8f-4e5e-8ba4-cad4f69f635f" />
 
 
 ### 👤 CRUD Usuarios 
 
-<img width="1141" height="619" alt="image" src="https://github.com/user-attachments/assets/8ed1ab07-869b-4a5b-87b9-e2b015331311" />
+<img width="941" height="419" alt="image" src="https://github.com/user-attachments/assets/8ed1ab07-869b-4a5b-87b9-e2b015331311" />
 
 ### 🍔 CRUD Productos
 
-<img width="1153" height="637" alt="image" src="https://github.com/user-attachments/assets/50fc035e-3bdc-499e-a26c-3a839a7a2384" />
+<img width="953" height="437" alt="image" src="https://github.com/user-attachments/assets/50fc035e-3bdc-499e-a26c-3a839a7a2384" />
 
 
 ### 🧾 Ticket en PDF
 
-<img width="859" height="585" alt="image" src="https://github.com/user-attachments/assets/6ed42a22-5030-4859-af06-6e726470915d" />
+<img width="659" height="385" alt="image" src="https://github.com/user-attachments/assets/6ed42a22-5030-4859-af06-6e726470915d" />
 
 
 ---
@@ -184,7 +184,4 @@ CREATE DATABASE fudsap_db;
 
 **Desarrollado con 💻 y 🍟 por el Equipo 15**
 
-```
-
-¿Quieres que te genere este archivo directamente o que lo empaquete junto con imágenes o código fuente?
 ```
