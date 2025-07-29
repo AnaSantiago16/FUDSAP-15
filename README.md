@@ -25,7 +25,7 @@ Sistema de gestión integral para restaurantes de comida rápida que permite:
   🔗 [Repositorio del componente CAPTCHA](https://github.com/FanyBr07/ComponenteVisual)
 
 **📦 Librería externa implementada:**
-- Selector de fechas con `CalendarPicker` del Equipo 14 
+- Selector de fechas con `Libreria_impuestos` del Equipo 14 
   🔗 [Repositorio del componente Libreria-impuestos]( https://github.com/LuisMarioMonterrubio/Libreria-Calculadora-de-Impuestos  )
 
 ---
