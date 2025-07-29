@@ -25,7 +25,7 @@ Sistema de gestión integral para restaurantes de comida rápida que permite:
 
 **🧩 Componente visual integrado:**
 - Selector de fechas con `CalendarPicker` del Equipo 14 
-  🔗 [Repositorio del componente Libreria-impuestos](   )
+  🔗 [Repositorio del componente Libreria-impuestos]( https://github.com/LuisMarioMonterrubio/Libreria-Calculadora-de-Impuestos  )
 
 ---
 
