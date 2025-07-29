@@ -19,11 +19,12 @@ Sistema de gestión integral para restaurantes de comida rápida que permite:
 
 **🖥️ Tipo de Sistema:** Desktop App en Java, con Swing
 
-**📦 Librería externa implementada:**
+
+**🧩 Componente visual integrado:**
 - Validación de formularios con `CAPTCHA` del Equipo 2  
   🔗 [Repositorio del componente CAPTCHA](https://github.com/FanyBr07/ComponenteVisual)
 
-**🧩 Componente visual integrado:**
+**📦 Librería externa implementada:**
 - Selector de fechas con `CalendarPicker` del Equipo 14 
   🔗 [Repositorio del componente Libreria-impuestos]( https://github.com/LuisMarioMonterrubio/Libreria-Calculadora-de-Impuestos  )
 
